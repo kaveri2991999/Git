@@ -32,14 +32,14 @@ public class Calculator {
 		// case to add two numbers
 		case '+':
 
-			o = num + num2;
+			o = (2*num1) + (2*num2);
 
 			break;
 
 		// case to subtract two numbers
 		case '-':
 
-			o = num1 - num2;
+			o = (2*num1) - (2*num2);
 
 			break;
 
